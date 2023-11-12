@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnyxTestApp", "OnyxTestApp\OnyxTestApp.csproj", "{EB75E580-8720-47F0-9E96-D2244BC01AF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB75E580-8720-47F0-9E96-D2244BC01AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB75E580-8720-47F0-9E96-D2244BC01AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB75E580-8720-47F0-9E96-D2244BC01AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB75E580-8720-47F0-9E96-D2244BC01AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C50FDC65-9D67-4E8E-B5C8-96EC16F35455}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+<div class="container">
+    <h2>VAT Verification</h2>
+    <p>Enter a country short code and VAT ID to verify the VAT ID.</p>
+    <p>Example: DE, 118856456</p>
+    <input [(ngModel)]="country" placeholder="Enter Country Short Code">
+    <input [(ngModel)]="vatId" placeholder="Enter VAT ID">
+    <button (click)="verifyVat()">Verify VAT</button>
+    
+    <p *ngIf="vatResponse">VAT Response: {{vatResponse}}</p>
+</div>
+
+   
+
+
+
